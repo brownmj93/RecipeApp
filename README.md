@@ -5,7 +5,7 @@ The goal here was to create an app that solved a particular problem of having in
 
 ## Getting Started
 
-* https://brownmj93.github.io/Project_Awesome/
+* https://brownmj93.github.io/RecipeApp/
 
 ## languages/Technologies Used
 
