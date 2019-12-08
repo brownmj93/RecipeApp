@@ -239,6 +239,9 @@ function nutrition() {
 
     }
   }).then(function(){
+    
+    document.getElementById("nutritionSection").style.backgroundColor = "#faedb9";
+   
     new Chart(document.getElementById("doughnut-chart-cals"), {
       type: 'doughnut',
       data: {
